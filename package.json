@@ -1,0 +1,16 @@
+{
+  "name": "allweb",
+  "version": "1.0.0",
+  "description": "This is website of the ALL WEB studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "all",
+    "web",
+    "studio"
+  ],
+  "author": "Dobri",
+  "license": "ISC"
+}

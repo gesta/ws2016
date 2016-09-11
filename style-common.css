@@ -1,0 +1,139 @@
+body{
+    font-family:Calibri;
+    color:white;
+}
+
+div.team,div.site{
+    padding: 2px;
+    margin: 5px;
+    float:left;
+    color:white;
+    width:306px;
+    height:400px;
+}
+
+div#container {
+    width:960px;
+    margin:0 auto;
+    background-color:#5c7997;
+    padding: 30px;
+    background:url(images/background.jpg) center center fixed;
+    
+}
+
+#menu ul li:hover{
+    background-color:white;
+}
+
+div.team img,div.site img { 
+    height:298px;
+    width: 298px;
+    border-radius:20px;
+    margin:1px;
+    border:1px solid black;
+}
+
+
+h1,h3,h2{
+    text-align:center;
+    color:white;
+}
+
+strong {
+    font-size: 25px;
+    color:white;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    height: 70px;
+    margin-top: 41px;
+    margin-left:77px;
+}
+
+li  {
+    display: block;    
+    float: left;
+    padding:9px;
+    text-transform: uppercase;
+}
+
+li a {
+    
+    text-decoration: none;
+    color: #000;
+    font-weight:bold;
+}
+
+#logo{
+    height:120px;
+}
+
+#menu{
+    display:flex;
+}
+
+.separator{
+    border-right: 1px solid white;
+}
+
+embed{
+    width:900px;
+    height:143px;
+    overflow:hidden !important;
+}
+#karta{
+    width:540px;
+    height:400px;
+    float:right;
+}
+#kontakti{
+    float:left;
+}
+div.team p{
+    text-align:center
+}
+img.ikona{
+    float:left;
+}
+.cerenfon {
+    background-color:black;
+    
+}
+#horata{
+    background:url(images/team/team.jpg) center center;
+    width:950px;
+    height:540px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+div#horata h2{
+    text-align: left;
+    padding:0;
+    margin:15px;
+    
+}
+div#horata h3{
+    text-align: left;
+    padding:0;
+    margin:15px;
+    
+}
+
+
+div#horata div{
+    background-color: rgba(0,0,0,0.5);
+    margin:30px;
+    width: 581px;
+    height: 150px;
+}
+div.team img{
+    border-radius:153px;
+}
+#footer {
+    height:36px;
+}
+strong{
+    text-align:center;
+}
